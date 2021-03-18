@@ -1,13 +1,36 @@
-body{
-	background-color: lightpink;
-}
 
+body{
+	background-color: #fff0f3;
+	width: 90%;
+	min-width: 500px;
+	margin: auto;
+}
 article{
 	background-color: white;
-	border-style: ridge;
+	border-style: dashed;
+	height: 300px;
+	width: 55%;
 }
 
+main{
+	background-color: white;
+	border-style: dashed;
+	height: 440px;
+	width: 55%;
+}
 nav{
 	background-color: white;
 	height: 50px;
+}
+
+div{
+	height: 250px;
+	width: 50%;
+}
+
+section{
+	background-color: white;
+	border-style: dashed;
+	height: 330px;
+	width: 55%;
 }
