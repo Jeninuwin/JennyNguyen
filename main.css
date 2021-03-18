@@ -1,0 +1,13 @@
+body{
+	background-color: lightpink;
+}
+
+article{
+	background-color: white;
+	border-style: ridge;
+}
+
+nav{
+	background-color: white;
+	height: 50px;
+}
