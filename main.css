@@ -1,34 +1,39 @@
 body{
 	background-color: #fff0f3;
+	margin:auto;
 }
 	/*width: 90%;
 	min-width: 500px;
 	margin: auto;*/
-
+html, body, #wrapper {
+    width: 100%;
+    min-height: 100%;
+}
 article{
 	background-color: white;
 	border-style: dashed;
+	border-collapse: auto;
 	height: 650px;
 	width: 55%;
+	margin:auto;
 }
 
-main{
+.intro{
 	background-color: white;
 	border-style: dashed;
+	border-collapse: auto;
 	height: 440px;
 	width: 55%;
+	margin:auto;	
 }
 
 .about{
 	background-color: white;
 	border-style: dashed;
+	border-collapse: auto;
 	height: 60%;
 	width: 55%;
-}
-
-div{
-	height: 250px;
-	width: 50%;
+	margin:auto;
 }
 
 
@@ -40,6 +45,7 @@ div{
 	height: auto;
 	border-radius: 30%;
 	border-width: 40%;
+	margin:auto;
 
 }
 
