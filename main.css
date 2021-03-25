@@ -43,17 +43,9 @@ article{
 	background-color: #fff0f3;
 	width: auto;
 	height: auto;
-	border-radius: 30%;
-	border-width: 40%;
 	margin:auto;
-
 }
 
-.title{
-	text-align: left; 
-	display: inline;
-	background-color: white; 
-}
 .bar{
 	border-style: hidden;
 	background-color: white;
