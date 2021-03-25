@@ -1,14 +1,9 @@
 body{
 	background-color: #fff0f3;
+	background-image: repeating-linear-gradient(45deg, #FFFFFF, #FFFFFF 30px, #fff0f3 30px, #fff0f3 60px);
 	margin:auto;
 }
-	/*width: 90%;
-	min-width: 500px;
-	margin: auto;*/
-html, body, #wrapper {
-    width: 100%;
-    min-height: 100%;
-}
+
 article{
 	background-color: white;
 	border-style: dashed;
