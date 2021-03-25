@@ -17,7 +17,10 @@ article{
 	width: 55%;
 	margin:auto;
 }
-
+.cat{
+	width: 300px;
+	float: right;
+}
 .intro{
 	background-color: white;
 	border-style: dashed;
